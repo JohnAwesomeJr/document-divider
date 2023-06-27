@@ -1,0 +1,2 @@
+To run the program using terminal: python3 document\ divider.py
+To build the app: pyinstaller --noconsole --target-arch universal2 document\ divider.py
